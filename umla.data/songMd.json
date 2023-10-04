@@ -2,131 +2,111 @@
   "songMd": [
     {
       "id": 1,
-      "title": "Unknown",
-      "artist": "Unknown",
-      "album": "Unknown",
-      "track": "0",
-      "fileName": "392e2d5b85b46348029833d4d929a61e.mp3"
-    },
-    {
-      "id": 2,
-      "title": "About A Girl",
-      "artist": "Nirvana",
-      "album": "Nirvana",
-      "track": "2",
-      "fileName": "About_A_Girl.mp3"
-    },
-    {
-      "id": 3,
-      "title": "505",
-      "artist": "Arctic Monkeys",
-      "album": "Favourite Worst Nightmare (Standard Version)",
-      "track": "12",
-      "fileName": "505.mp3"
-    },
-    {
-      "id": 4,
-      "title": "All My Life",
-      "artist": "Foo Fighters",
-      "album": "One By One (Expanded Edition)",
-      "track": "1",
-      "fileName": "All_My_Life.mp3"
-    },
-    {
-      "id": 5,
-      "title": "American Idiot",
-      "artist": "Green Day",
-      "album": "American Idiot (Deluxe)",
-      "track": "1",
-      "fileName": "American_Idiot.mp3"
-    },
-    {
-      "id": 6,
-      "title": "Aliens Exist",
-      "artist": "blink-182",
-      "album": "Enema Of The State",
-      "track": "3",
-      "fileName": "Aliens_Exist.mp3"
-    },
-    {
-      "id": 7,
-      "title": "99 Red Balloons",
-      "artist": "Goldfinger",
-      "album": "Stomping Ground",
-      "track": "13",
-      "fileName": "99_Red_Balloons.mp3"
-    },
-    {
-      "id": 8,
-      "title": "All My Favorite Songs (feat. AJR)",
-      "artist": "Weezer, AJR",
-      "album": "All My Favorite Songs (feat. AJR)",
-      "track": "1",
-      "fileName": "All_My_Favorite_Songs__feat__AJR_.mp3"
-    },
-    {
-      "id": 9,
-      "title": "All My Best Friends Are Metalheads",
-      "artist": "Less Than Jake",
-      "album": "Hello Rockview",
-      "track": "3",
-      "fileName": "All_My_Best_Friends_Are_Metalheads.mp3"
-    },
-    {
-      "id": 10,
       "title": "All The Small Things",
       "artist": "blink-182",
       "album": "Enema Of The State",
       "track": "8",
-      "fileName": "All_The_Small_Things.mp3"
+      "fileName": "All_The_Small_Things.mp3",
+      "location": "local"
     },
     {
-      "id": 11,
-      "title": "Ain't No Rest for the Wicked",
-      "artist": "Cage The Elephant",
-      "album": "Cage The Elephant (Expanded Edition)",
-      "track": "3",
-      "fileName": "Ain_t_No_Rest_for_the_Wicked.mp3"
+      "id": 2,
+      "title": "Why'd You Only Call Me When You're High?",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "track": "9/12",
+      "fileName": "Arctic Monkeys - Why'd You Only Call Me When You're High.mp3",
+      "location": "local"
     },
     {
-      "id": 12,
-      "title": "And Your Bird Can Sing - 2022 Mix",
-      "artist": "The Beatles",
-      "album": "Revolver (Super Deluxe)",
-      "track": "9",
-      "fileName": "And_Your_Bird_Can_Sing_-_2022_Mix.mp3"
+      "id": 3,
+      "title": "Blow Us All Away",
+      "artist": "Ariana DeBose/Sasha Hutchings/Ephraim Sykes/Lin-Manuel Miranda/Original Broadway Cast of Hamilton/Anthony Ramos",
+      "album": "Hamilton (Original Broadway Cast Recording)",
+      "track": "16/46",
+      "fileName": "Ariana DeBose, Sasha Hutchings, Ephraim Sykes, Lin-Manuel Miranda, Original Broadway Cast of Hamilton, Anthony Ramos - Blow Us All Away.mp3",
+      "location": "local"
     },
     {
-      "id": 13,
+      "id": 4,
       "title": "Anthem Part Two",
       "artist": "blink-182",
       "album": "Take Off Your Pants And Jacket",
       "track": "1",
-      "fileName": "Anthem_Part_Two.mp3"
+      "fileName": "Anthem_Part_Two.mp3",
+      "location": "local"
     },
     {
-      "id": 14,
-      "title": "Around the World",
-      "artist": "Red Hot Chili Peppers",
-      "album": "Californication (Deluxe Edition)",
+      "id": 5,
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "album": "One By One (Expanded Edition)",
       "track": "1",
-      "fileName": "Around_the_World.mp3"
+      "fileName": "All_My_Life.mp3",
+      "location": "local"
     },
     {
-      "id": 15,
-      "title": "Bad Days",
-      "artist": "The Score, DREAMERS",
-      "album": "Bad Days",
-      "track": "1",
-      "fileName": "Bad_Days.mp3"
-    },
-    {
-      "id": 16,
-      "title": "Basket Case",
-      "artist": "Green Day",
-      "album": "Dookie",
+      "id": 6,
+      "title": "Alright",
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
       "track": "7",
-      "fileName": "Basket_Case.mp3"
+      "fileName": "Alright.mp3",
+      "location": "local"
+    },
+    {
+      "id": 7,
+      "title": "And Your Bird Can Sing - 2022 Mix",
+      "artist": "The Beatles",
+      "album": "Revolver (Super Deluxe)",
+      "track": "9",
+      "fileName": "And_Your_Bird_Can_Sing_-_2022_Mix.mp3",
+      "location": "local"
+    },
+    {
+      "id": 8,
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "album": "American Idiot (Deluxe)",
+      "track": "1",
+      "fileName": "American_Idiot.mp3",
+      "location": "local"
+    },
+    {
+      "id": 9,
+      "title": "Answer in My Head",
+      "artist": "Fastest Land Animal",
+      "album": "Fastest Land Animal",
+      "track": "2",
+      "fileName": "Answer_in_My_Head.mp3",
+      "location": "local"
+    },
+    {
+      "id": 10,
+      "title": "Do I Wanna Know?",
+      "artist": "Arctic Monkeys",
+      "album": "AM",
+      "track": "1/12",
+      "fileName": "Arctic Monkeys - Do I Wanna Know.mp3",
+      "location": "local"
+    },
+    {
+      "id": 11,
+      "title": "Aquatic Mouth Dance",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Unlimited Love",
+      "track": "3",
+      "fileName": "Aquatic_Mouth_Dance.mp3",
+      "location": "local"
+    },
+    {
+      "id": 12,
+      "title": "All The Stars (with SZA)",
+      "artist": "Kendrick Lamar, SZA",
+      "album": "Black Panther The Album Music From And Inspired By",
+      "track": "2",
+      "fileName": "All_The_Stars__with_SZA_.mp3",
+      "location": "local"
     }
   ]
 }
